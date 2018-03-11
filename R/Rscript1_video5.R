@@ -24,7 +24,7 @@ View(train)
 
 # Import the testing set: test
 
-test <- read_csv("~/datasets/titanic/test.csv")
+test <- read.csv("~/datasets/titanic/test.csv")
 
 # Print test dataframe to the console
 
